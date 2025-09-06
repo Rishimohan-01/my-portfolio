@@ -1,0 +1,14 @@
+.skills ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+}
+.skills li {
+  background: #eee;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+}
